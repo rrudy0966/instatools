@@ -2,7 +2,7 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/sandalpenyok/instatools
+	* git clone https://github.com/rrudy0966/instatools
 	* cd instatools
 	* unzip node_modules.zip
 	* ls
@@ -14,7 +14,7 @@
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/sandalpenyok/instatools)
+	* Download File on Github (https://github.com/rrudy0966/instatools)
 	* Extract File instatools and enter the folder
 	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the instatools folder!!!)
 	* Then type: unzip node_modules.zip
@@ -28,7 +28,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/sandalpenyok/instatools
+	* git clone https://github.com/rrudy0966/instatools
 	* cd instatools
 	* unzip node_modules.zip
 	* ls
@@ -46,7 +46,7 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/sandalpenyok/instatools
+	* git clone https://github.com/rrudy0966/instatools
 	* cd instatools
 	* unzip node_modules.zip
 	* ls
